@@ -2,14 +2,14 @@
 
 Course Plan
 
-1. Introduction
-    - Abstraction, Model and modeling
-    - Algorithm, Programm, Application
-    - Syntax and Semantics of programming language
-2. Development techniques:
+1. Development techniques:
     - Version control systems, Git
     - Code review, refactoring
     - IDE and programming workflow
+2. Introduction
+    - Abstraction, Model and modeling
+    - Algorithm, Programm, Application
+    - Syntax and Semantics of programming language
 3. Identifiers, data types and basic syntax
     - Value, literal, assignment
     - Scalar, reference and structure types
