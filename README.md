@@ -3,9 +3,10 @@
 Course Plan
 
 1. Development techniques:
-    - Version control systems, Git
-    - Code review, refactoring
-    - IDE and programming workflow
+    - [Version control systems, Git](https://github.com/HowProgrammingWorks/VersionControl/blob/master/README.md)
+    - [Code review](https://github.com/HowProgrammingWorks/CodeReview)
+    - [Refactoring](https://github.com/HowProgrammingWorks/Refactoring)
+    - [IDE and programming workflow](https://github.com/HowProgrammingWorks/Tools)
 2. Introduction
     - Abstraction, Model and modeling
     - Algorithm, Programm, Application
