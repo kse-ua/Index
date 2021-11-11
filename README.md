@@ -9,8 +9,12 @@ Course Plan
     - [IDE and programming workflow](https://github.com/HowProgrammingWorks/Tools)
 2. Introduction
     - Abstraction, Model and modeling
+      - https://github.com/HowProgrammingWorks/Reusable
     - Algorithm, Programm, Application
     - Syntax and Semantics of programming language
+      - https://developer.mozilla.org/en-US/docs/Web/JavaScript
+      - https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Fundamentals.md
+      - https://javascript.info/
 3. Identifiers, data types and basic syntax
     - Value, literal, assignment
     - Scalar, reference and structure types
