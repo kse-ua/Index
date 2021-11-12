@@ -17,6 +17,8 @@ Course Plan
       - https://javascript.info/
 3. Identifiers, data types and basic syntax
     - Value, literal, assignment
+      - https://www.slideshare.net/tshemsedinov/1-168855278
+      - https://github.com/HowProgrammingWorks/DataTypes
     - Scalar, reference and structure types
     - Operator and expression, code block, visibility
     - Conditions and loops, iteration
