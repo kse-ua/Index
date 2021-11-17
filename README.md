@@ -45,7 +45,8 @@ Course Plan
 
 Assignments topics:
 
-1. Working with Git: commits, branches, merge & rebase
+1. Working with Git: commits, branches, merge & rebase, working with simple code examples
+    - https://github.com/kse-ua/introduction-to-it/tree/main/lecture_notes/07%20basics
 2. Control structures
 3. Collections and structures
 4. Functions
